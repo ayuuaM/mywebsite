@@ -1,1 +1,60 @@
 
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>موقعي الأول</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f0e8;
+      color: #252525;
+      text-align: center;
+    }
+    header {
+      background: #252525;
+      color: white;
+      padding: 25px;
+    }
+    main {
+      padding: 70px 20px;
+    }
+    h1 {
+      font-size: 38px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.8;
+    }
+    a {
+      display: inline-block;
+      background: #92745a;
+      color: white;
+      padding: 14px 25px;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    footer {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>موقعي الأول</h2>
+  </header>
+
+  <main>
+    <h1>أهلاً بيك في موقعي</h1>
+    <p>ده أول موقع بعمله بنفسي من الصفر.</p>
+    <a href="https://www.google.com">ابدأ من هنا</a>
+  </main>
+
+  <footer>
+    جميع الحقوق محفوظة © 2026
+  </footer>
+</body>
+</html>
+
