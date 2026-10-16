@@ -43,18 +43,57 @@
 </head>
 <body>
   <header>
-    <h2>موقعي الأول</h2>
-  </header>
+      </style>
+</head>
+<body>
+<h1> <h1>Welcome to Our Store</h1>
+<p>Discover the latest trends at the best prices.</p>
+<button>Shop Now</button> </h1>
+<p>
+<body>
 
-  <main>
-    <h1>أهلاً بيك في موقعي</h1>
-    <p>ده أول موقع بعمله بنفسي من الصفر.</p>
-    <a href="https://www.google.com">ابدأ من هنا</a>
-  </main>
+    <header>
+        <h2>BEYOND ORDINARY.</h2>
+        <p>Fashion for the Unforgettable.</p>
+    </header>
 
-  <footer>
-    جميع الحقوق محفوظة © 2026
-  </footer>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Collections</a>
+        <a href="#">Our Story</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <main>
+        <p>THIS IS YOUR MOMENT.</p>
+
+        <h1>Born to Stand Out.</h1>
+
+        <p>
+            Not everyone will understand your style.
+            That's exactly the point.
+        </p>
+
+        <button>Discover Your Style</button>
+    </main>
+
+    <section>
+        <h2>More Than Just Fashion.</h2>
+
+        <p>
+            Every piece tells a story.
+            Make sure yours is unforgettable.
+        </p>
+
+        <h3>Made for Your Kind of Different.</h3>
+
+        <button>Explore the Collection</button>
+    </section>
+
+    <footer>
+        <p>Wear Your Story. Own Your Identity.</p>
+        <p>© 2026 Beyond Ordinary. All Rights Reserved.</p>
+    </footer>    
 </body>
 </html>
 
